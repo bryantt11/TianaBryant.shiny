@@ -1,0 +1,13 @@
+name: ASD_Screening
+title: ASD_Screening
+username:
+account: tianabryant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5779044
+bundleId: 5640793
+url: https://tianabryant.shinyapps.io/ASD_Screening/
+when: 1646376361.02084
+lastSyncTime: 1646376361.02085
+asMultiple: FALSE
+asStatic: FALSE
